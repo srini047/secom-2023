@@ -8,6 +8,7 @@ body {
 
 .logo {
   position: absolute;
+  flex-direction: left;
   top: 10px;
   left: 20px;
   width: 80px;
@@ -219,7 +220,7 @@ nav a {
 }
 
 .info-sub-2 {
-  font-family: "Staatliches", cursive;
+  font-family: "HighTowerText", cursive;
   color: #ff9d59;
   font-weight: 500;
   letter-spacing: 2px;
@@ -350,7 +351,7 @@ hr {
 
 .theme-sub-2 {
   font-family: monospace;
-  color: #ff9d59;
+  color: #d56a1d;
   font-size: 25px;
   text-align: center;
 }
